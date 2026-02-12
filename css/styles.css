@@ -1,0 +1,53 @@
+body {
+ margin: 0px 300px;
+ padding: 10vh 10vw;
+ border: #000000 5px solid;
+}
+
+
+p {
+ padding: 5px;
+}
+
+
+.field {
+ display: flex;
+ justify-content: flex-start;
+ align-items: center;
+}
+
+
+#fruits div {
+ height: 40px;
+}
+
+
+.place {
+ width: 80px;
+ height: 90px;
+ border: #000000 1px solid;
+ justify-content: center;
+ align-items: center;
+}
+
+
+.none {
+ width: 80px;
+ height: 90px;
+ border: #ffffff 1px solid;
+}
+
+
+.pillar {
+ width: 80px;
+ height: 90px;
+ border: #000000 1px solid;
+ background-color:#777777;
+ justify-content: center;
+ align-items: center;
+}
+
+
+.hidden {
+ display: none;
+}
