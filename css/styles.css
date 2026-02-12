@@ -1,7 +1,17 @@
+/* PC用 */
 body {
  margin: 0px 300px;
  padding: 10vh 10vw;
  border: #000000 5px solid;
+}
+
+/* スマホ用 */
+@media screen and (max-width: 480px) {
+  body {
+    /* margin: 0px 30px; */
+    padding: 10vh 10vw;
+    border: #000000 5px solid;
+  }
 }
 
 
@@ -14,11 +24,6 @@ p {
  display: flex;
  justify-content: flex-start;
  align-items: center;
-}
-
-
-#fruits div {
- height: 40px;
 }
 
 
