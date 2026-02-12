@@ -1,8 +1,10 @@
 /* PC用 */
-body {
- margin: 0px 300px;
- padding: 10vh 10vw;
- border: #000000 5px solid;
+@media screen and (max-width: 1280px) {
+  body {
+    margin: 0px 300px;
+    padding: 10vh 10vw;
+    border: #000000 5px solid;
+  }
 }
 
 /* スマホ用 */
