@@ -23,7 +23,7 @@ p {
 
 .field {
  display: flex;
- justify-content: flex-start;
+ justify-content: center;
  align-items: center;
 }
 
@@ -34,13 +34,6 @@ p {
  border: #000000 1px solid;
  justify-content: center;
  align-items: center;
-}
-
-
-.none {
- width: 80px;
- height: 90px;
- border: #ffffff 1px solid;
 }
 
 
