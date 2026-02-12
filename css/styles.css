@@ -7,7 +7,7 @@ body {
 }
 
 /* スマホ用 */
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 767px) {
   body {
     margin: 0px 2vw;
     padding: 5vh 3vw;
